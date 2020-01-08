@@ -9,6 +9,7 @@
 
 ## 使用技術
 - Google Cloud Platform
+- Action On Google
 - Dialogflow
 
 ## 設備
