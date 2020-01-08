@@ -11,7 +11,6 @@
 - Google Cloud Platform
 - Dialogflow
 
-
 ## 設備
 - Raspberry Pi 4 Model B
 - Harman Kardon 音響
@@ -24,6 +23,6 @@
 
 ## 分工
 - 題目討論: 謝其佑 林子揚 何文睿
-- 程式撰寫:
-- 文件整理: 謝其佑 林子揚
-- 簡報製作:
+- 程式撰寫: 何文睿
+- 文件整理: 林子揚
+- 簡報製作: 林子揚 謝其佑
